@@ -1,0 +1,1 @@
+start "" ../x64/Debug/CheukHangTse_Project.exe cpu 000033016.jpg 15
